@@ -1,5 +1,5 @@
 ---
-title: Welcome to my test blog!
+title: "Welcome to my test blog!"
 date: 2020-11-05
 ---
 # Welcome to my test blog!
