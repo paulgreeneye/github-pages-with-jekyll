@@ -18,6 +18,6 @@ Hey, will it show spece without br tag?
 
 **block for**
 {% for i in (1..page.my_num) %}
-  {{ page.i }}
+  <li>{{ i }}</li>
 {% endfor %}
 **endfor**
