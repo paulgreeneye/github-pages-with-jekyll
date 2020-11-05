@@ -17,7 +17,7 @@ Hey, will it show spece without br tag?
 {{ "that's only lower case" | capitalize }}
 
 **block for**
-{% for i in my_num %}
+{% for i in (1..page.my_num) %}
   {{ page.i }}
 {% endfor %}
 **endfor**
